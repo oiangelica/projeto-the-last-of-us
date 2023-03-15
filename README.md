@@ -4,6 +4,8 @@
 
 [<img src="src/readme/gif-readme.gif" alt="Gif do projeto finalizado">](https://oiangelica.github.io/projeto-the-last-of-us/)
 
+### Caso não parecer clique aqui → (https://oiangelica.github.io/projeto-the-last-of-us/)
+
 <p>Este é um projeto realizado no evento ‘Semana do zero ao programador contratado’ no canal do youtube ‘Dev em dobro’ dos gêmeos Beto e Cadu. O mesmo foi dividido em 3 lives com mais de 2h de duração cada, ensinando e codando o passo a passo dessa page. 
 </p>
 
