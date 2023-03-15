@@ -1,4 +1,4 @@
-# Projeto The Last Of Us
+# Projeto The last of us
 
 ## Clique no gif para acessar o projeto! 🥰
 
